@@ -14,3 +14,7 @@ index.html
     --- recipe
     --- recipe
     --- recipe
+
+
+    now i am back and it is time to add some styles.
+    i'd like to go ahead and add some photos and divs call it good, nothing too crazy
